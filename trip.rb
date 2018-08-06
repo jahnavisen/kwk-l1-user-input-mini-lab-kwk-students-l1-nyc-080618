@@ -19,4 +19,4 @@ puts "I'd like to stay #{nights} nights"
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "I want to visit #{stay}. I want to eat #{eats}. I'd like to stay for #{nights} nights "
+puts "I want to visit #{stay}. I want to eat #{eat}. I'd like to stay for #{nights} nights "
